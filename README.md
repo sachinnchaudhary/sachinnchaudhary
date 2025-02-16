@@ -1,2 +1,2 @@
 - heyy! am sachin 
-- let's create future through symphony of code.
+- I'm working primarily in NLP(natural language processing), Deep learning, Reinforcement learning in Reasoning areas.
